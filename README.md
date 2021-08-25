@@ -1,10 +1,1 @@
-## Hey there, I'm [Matis Stocco][website]!👋
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rush-er&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Links -->
-[website]: https://stoccomatis.com/
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rush-er&label=Profile%20views&color=0e75b6&style=flat" alt="Rush-er" /> </p>
+![Metrics](https://metrics.lecoq.io/rush-er?template=classic&pagespeed=1&achievements=1&people=1&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=stoccomatis.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Europe%2FRome)
