@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-        uses: Rush-er/metrics@master
+      - uses: uses: Rush-er/metrics@master
         with:
-           token: ${{ secrets.METRICS_TOKEN }}
+          # Your GitHub token
+          token: ${{ secrets.METRICS }}
