@@ -36,4 +36,5 @@ jobs:
           echo test, and deploy your project.
           
       - name: Metrics embed
-        uses: lowlighter/metrics@v3.13
+        uses: Rush-er/metrics@master
+        token: ${{ secrets.METRICS_TOKEN }}
